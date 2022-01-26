@@ -1,6 +1,6 @@
 # China Telecom Supporter
 
-A Magisk module to enable support for Chinese Telecom SIM Cards and VoLTE for Pixel 3.
+A Magisk module to enable support for Chinese Telecom SIM Cards and VoLTE for Pixel 3XL.
 
 1. Contents in this module:
 
@@ -39,4 +39,6 @@ A Magisk module to enable support for Chinese Telecom SIM Cards and VoLTE for Pi
         Go to "Magisk Manager -> Modules -> Install from storage",
         choose china_telecom_supporter.zip and install, reboot.
 
-**NOTE**:Tested on Android 10/11 Pixel 3
+**NOTE**:Tested on Android 12 Pixel 3XL
+
+            cd china_telecom_supporter
