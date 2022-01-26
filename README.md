@@ -29,7 +29,7 @@ A Magisk module to enable support for Chinese Telecom SIM Cards and VoLTE for Pi
 
     * Packaging and send it to your phone
 
-            git clone https://github.com/apporc/china_telecom_supporter
+            git clone https://github.com/Yunoon/china_telecom_supporter
             cd china_telecom_supporter
             zip -r /tmp/china_telecom_supporter.zip *
             adb push /tmp/china_telecom_supporter.zip /sdcard/Download/
